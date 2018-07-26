@@ -1,0 +1,12 @@
+{
+  "properties": {
+    "cycle": {
+      "title": "Cycle",
+      "description": "Cycle",
+      "type": [
+        "integer",
+        "null"
+      ]
+    }
+  }
+}
